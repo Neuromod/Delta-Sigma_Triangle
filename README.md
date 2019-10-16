@@ -1,2 +1,4 @@
 # Delta-Sigma_Triangle
-Delta-Sigma triangle waveform generator
+Verilog delta-sigma triangle waveform generator example
+
+![Oscilloscope](Scope.png)
